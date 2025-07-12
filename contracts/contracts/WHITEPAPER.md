@@ -27,11 +27,11 @@ We’re building a decentralized meme empire — where early warriors become kin
 
 | Wallet              | %     | Tokens        | Purpose                                              |
 |---------------------|-------|---------------|------------------------------------------------------|
-| Liquidity Wallet     | 70%   | 700,000,000   | LP & market making                                   |
-| Marketing Wallet     | 10%   | 100,000,000   | Meme campaigns & Kings Board rewards                 |
-| Dev Wallet           | 10%   | 100,000,000   | Contract upgrades, backend tools                     |
-| Partnership Wallet   | 5%    | 50,000,000    | Influencer deals, future collabs                     |
-| Deployer Wallet      | 5%    | 50,000,000    | Emergency reserves, ops                              |
+| Liquidity Wallet     | 70%   | 700,000,000   | 0xAbFbfC8ee73Eec6523Fb088206ce8B8B51eB913B                                 |
+| Marketing Wallet     | 10%   | 100,000,000   | 0x4A68622f6508Cc99c51813FcA10b50027c05b9EB              |
+| Dev Wallet           | 10%   | 100,000,000   | 0x7C64F3c1323f0F9AE69A73eb6e90764Ab2A03C0D            |
+| Partnership Wallet   | 5%    | 50,000,000    | 0x6F9282fe4Cd10bCCA8E2562C6884750F0e58Da82             |
+| Deployer Wallet      | 5%    | 50,000,000    | 0x2e86bCb8f6d54fD13De283773ACD75018E804926            |
 
 ---
 
