@@ -82,7 +82,7 @@ We’re building a decentralized meme empire — where early warriors become kin
 
 ## 🌐 Socials & Resources
 
-- 🔗 Website: [https://emoking.com](https://emoking.com)  
+- 🔗 Website: [https://emokings.com](https://emokings.com)  
 - 🧾 GitHub (Contract): [Emoking Token GitHub](https://github.com/EMOKINGTHE1st/Emoking-Token/tree/main/contracts/contracts)  
 - 🟦 X: [@EmoKing1st](https://x.com/EmoKing1st)  
 - 💬 Telegram: [@Emotofficials](https://t.me/Emotofficials)  
