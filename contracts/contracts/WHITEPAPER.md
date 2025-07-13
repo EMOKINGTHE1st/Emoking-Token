@@ -65,9 +65,6 @@ We’re building a decentralized meme empire — where early warriors become kin
 - ✅ **Lock Duration:**  
   Until **August 10, 2024**
 
-- ✅ **Liquidity Wallet (locked):**  
-  [`0xAbFbfC8ee73Eec6523Fb088206ce8B8B51eB913B`](https://basescan.org/address/0xAbFbfC8ee73Eec6523Fb088206ce8B8B51eB913B)
-
 ---
 
 ## 📈 Roadmap
@@ -85,7 +82,7 @@ We’re building a decentralized meme empire — where early warriors become kin
 
 ## 🌐 Socials & Resources
 
-- 🔗 Website: [https://emoking1st.carrd.co](https://emoking1st.carrd.co)  
+- 🔗 Website: [https://emoking.com](https://emoking.com)  
 - 🧾 GitHub (Contract): [Emoking Token GitHub](https://github.com/EMOKINGTHE1st/Emoking-Token/tree/main/contracts/contracts)  
 - 🟦 X: [@EmoKing1st](https://x.com/EmoKing1st)  
 - 💬 Telegram: [@Emotofficials](https://t.me/Emotofficials)  
